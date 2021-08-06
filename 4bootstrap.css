@@ -1,0 +1,38 @@
+#navbarDropdown:hover{
+    color:rgb(197, 70, 223);
+}
+#h:hover{
+    color:rgb(197, 70, 223);
+}
+#h{margin: 3px;
+    margin-top: 0px;
+    font-size:medium;
+;}
+#navbarDropdown{
+  
+    margin: 3px;
+    margin-top: 0px;
+ 
+}
+#fw:hover{color: black;}
+.navbar-brand{
+    
+    font-family: fantasy;
+    font-style: bold;
+    border: 2px rgb(0, 0, 0) solid;
+    padding: 10px;
+    border-radius: 40%;
+    background-color: rgb(197, 70, 223);
+}
+.form{
+    font-family: 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: medium;
+    margin: 150px;
+    margin-top: 30px;
+}
+.cu{text-align: center;
+margin-top: 4px;
+font-family: sans-serif;
+font-style: italic;
+font-weight: bold;}
